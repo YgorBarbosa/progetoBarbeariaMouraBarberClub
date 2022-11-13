@@ -1,0 +1,62 @@
+body {
+	
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+#barber {
+	width: 100%;
+}
+
+h1 {
+	text-align: center; "
+}
+p {
+		text-align: center;
+	}
+
+#Missao {
+	font-size: 20px;
+}
+
+em strong {
+	color: #9370DB;
+	text-decoration: underline;
+}
+
+
+.itens {
+	font-style: italic;
+}
+
+.beneficios {
+	text-align: center;
+	background: #ffffff;
+	padding: 20px;
+}
+
+h2 {
+	text-align: center;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagembeneficios {
+	width: 50%;
+}
